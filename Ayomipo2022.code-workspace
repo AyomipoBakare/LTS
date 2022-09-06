@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../New"
+    },
+    {
+      "path": "../calculator"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "calculator"
+  }
+}
